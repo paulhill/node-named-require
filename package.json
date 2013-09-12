@@ -1,7 +1,7 @@
 {
   "name": "named-require",
   "description": "Name-spacing of the Node.js require cache",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Paul Hill <paul.william.hill@gmail.com>",
   "keywords": [
     "require",
